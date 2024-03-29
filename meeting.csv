@@ -1,0 +1,20 @@
+Code;Class;Event;Value;Wind;Firstname;Lastname;Nation;Birthyear;Country;City;Date;Sex
+MR;M;100;10.07;1.7;Usheoritse;Itsekiri;NGR;1998;GER;Rehlingen;2019-06-09;Male
+MR;M;100;10.07;;Fredericks;Frank;NAM;1967;GER;Rehlingen;1995-01-01;Male
+MR;M;800;01:43.3;;Mulaudzi;Mbulaene;RSA;1980;GER;Rehlingen;2003-06-09;Male
+MR;M;1K5;03:30.4;;Rotich;Laban;KEN;1969;GER;Rehlingen;1997-01-01;Male
+MR;M;3KH;08:08.4;;Boit Kipketer;Wilson;KEN;1973;GER;Rehlingen;1997-01-01;Male
+MR;M;40H;48.49;;Thomas;Eric;USA;1987;GER;Rehlingen;2001-06-04;Male
+MR;M;HOC;2.36;;Howard;Jim;USA;1959;GER;Rehlingen;1987-01-01;Male
+MR;M;SPE;91.44;;Hofmann;Andreas;GER;1991;GER;Rehlingen;2018-05-20;Male
+MR;M;STA;5.76;;Lita Baehre;Bo Kanda;GER;1999;GER;Rehlingen;2023-05-28;Male
+MR;M;5K0;13:23.54;;Hissou;Salah;MAR;1972;GER;Rehlingen;1995-01-01;Male
+MR;M;400;45.16;;Davis;Calvin;USA;1972;GER;Rehlingen;1996-01-01;Male
+MR;W;100;11.12;0.6;Van Der Weken;Patrizia;LUX;1999;GER;Rehlingen;2023-05-28;Female
+MR;W;400;50.97;;Aminatou;Seyni;NIG;1996;GER;Rehlingen;2019-06-09;Female
+MR;W;800;01:59.5;;Rübsam;Dagmar;GDR;1962;GER;Rehlingen;1984-01-01;Female
+MR;W;1K5;04:05.8;;Tigist;Ketema;ETH;1998;GER;Rehlingen;2019-06-09;Female
+MR;W;HOC;2;;Kostadinova;Stefka;BUL;1965;GER;Rehlingen;1987-01-01;Female
+MR;W;KUG;21.6;;Fibingerová;Helena;CSSR;1949;GER;Rehlingen;1978-01-01;Female
+MR;W;SPE;66.96;;Hussong;Christin;GER;1994;GER;Rehlingen;2021-05-23;Female
+MR;W;40H;56.01;;Kohlmann;Fabienne;GER;1989;GER;Rehlingen;2010-05-24;Female
