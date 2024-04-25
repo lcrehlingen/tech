@@ -1,0 +1,674 @@
+{
+  "$type": "System.Collections.ObjectModel.ObservableCollection`1[[taf.Printing.Pdos.PrintDesign, taf]], System",
+  "$values": [
+    {
+      "$type": "taf.Printing.Pdos.PrintDesign, taf",
+      "Name": "SPK_Barcode",
+      "Type": 0,
+      "FullType": "taf.Printing.Pdos.PrintDesign, taf, Version=3.1.0.7156, Culture=neutral, PublicKeyToken=null",
+      "Width": 97,
+      "Heigth": 72,
+      "Leftpadding": 0,
+      "Toppadding": 5,
+      "Pdos": {
+        "$type": "System.Collections.ObjectModel.ObservableCollection`1[[taf.Printing.Pdos.PrintDrawObject, taf]], System",
+        "$values": [
+          {
+            "$type": "taf.Printing.Pdos.PrintDBtext, taf",
+            "X": 65.0,
+            "Y": 3.1505772126484941,
+            "Width": 30.0,
+            "Height": 5.0,
+            "Level": 0,
+            "Content": "[EntryValue]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 14.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 700,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 2,
+            "Parameters": {
+              "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib",
+              "$values": [
+                {
+                  "Key": "tb_teammembers",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_multievents",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_single_member",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_Nameformat",
+                  "Value": 0
+                },
+                {
+                  "Key": "tb_single_performance",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_printOrder",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printBib",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printEmptyMembers",
+                  "Value": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintDBtext, taf",
+            "X": 30.0,
+            "Y": 3.0000000000000058,
+            "Width": 25.0,
+            "Height": 5.0,
+            "Level": 0,
+            "Content": "[EventShort]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 14.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 700,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0,
+            "Parameters": {
+              "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib",
+              "$values": [
+                {
+                  "Key": "tb_teammembers",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_multievents",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_single_member",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_Nameformat",
+                  "Value": 0
+                },
+                {
+                  "Key": "tb_single_performance",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_printOrder",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printBib",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printEmptyMembers",
+                  "Value": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintDBtext, taf",
+            "X": 9.9548268362054557,
+            "Y": 3.0,
+            "Width": 20.0,
+            "Height": 5.0,
+            "Level": 0,
+            "Content": "[ClassShort]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 14.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 700,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0,
+            "Parameters": {
+              "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib",
+              "$values": [
+                {
+                  "Key": "tb_teammembers",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_multievents",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_single_member",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_Nameformat",
+                  "Value": 0
+                },
+                {
+                  "Key": "tb_single_performance",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_printOrder",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printBib",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printEmptyMembers",
+                  "Value": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFormula, taf",
+            "X": 40.0,
+            "Y": 13.0,
+            "Width": 49.0,
+            "Height": 5.0,
+            "Level": 0,
+            "Content": "[CompetitorSurname], [CompetitorForename]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 12.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFreetext, taf",
+            "X": 40.0,
+            "Y": 10.0,
+            "Width": 30.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "Name / Verein",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintDBtext, taf",
+            "X": 40.0,
+            "Y": 20.000000000000004,
+            "Width": 44.0,
+            "Height": 10.0,
+            "Level": 0,
+            "Content": "[Club]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 12.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0,
+            "Parameters": {
+              "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib",
+              "$values": [
+                {
+                  "Key": "tb_teammembers",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_multievents",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_single_member",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_Nameformat",
+                  "Value": 0
+                },
+                {
+                  "Key": "tb_single_performance",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_printOrder",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printBib",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printEmptyMembers",
+                  "Value": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintDBtext, taf",
+            "X": 10.0,
+            "Y": 12.0,
+            "Width": 25.0,
+            "Height": 7.0,
+            "Level": 0,
+            "Content": "[Bib]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 20.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 700,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0,
+            "Parameters": {
+              "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib",
+              "$values": [
+                {
+                  "Key": "tb_teammembers",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_multievents",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_single_member",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_Nameformat",
+                  "Value": 0
+                },
+                {
+                  "Key": "tb_single_performance",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_printOrder",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printBib",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printEmptyMembers",
+                  "Value": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintDBtext, taf",
+            "X": 85.0,
+            "Y": 13.0,
+            "Width": 10.0,
+            "Height": 6.0,
+            "Level": 0,
+            "Content": "[CompetitorBirthyear]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 12.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 2,
+            "Parameters": {
+              "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib",
+              "$values": [
+                {
+                  "Key": "tb_teammembers",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_multievents",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_single_member",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_Nameformat",
+                  "Value": 0
+                },
+                {
+                  "Key": "tb_single_performance",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_printOrder",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printBib",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printEmptyMembers",
+                  "Value": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFreetext, taf",
+            "X": 75.0,
+            "Y": 10.0,
+            "Width": 20.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "Jahrgang",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 2
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFormula, taf",
+            "X": 10.0,
+            "Y": 53.0,
+            "Width": 25.0,
+            "Height": 12.0,
+            "Level": 0,
+            "Content": "[RoundDate], [EventBegin]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 10.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFreetext, taf",
+            "X": 10.0,
+            "Y": 50.0,
+            "Width": 25.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "Wettbewerbsbeginn",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintLine, taf",
+            "X": 10.0,
+            "Y": 9.0,
+            "Width": 85.0,
+            "Height": 0.0,
+            "Level": 0,
+            "X2": 95.0,
+            "Y2": 9.0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFreetext, taf",
+            "X": 10.0,
+            "Y": 10.0,
+            "Width": 25.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "Start-Nr.",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintDBtable, taf",
+            "X": 10.0,
+            "Y": 26.0,
+            "Width": 85.0,
+            "Height": 27.0,
+            "Level": 0,
+            "Content": "[RelayMembers]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 9.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0,
+            "Parameters": {
+              "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib",
+              "$values": [
+                {
+                  "Key": "tb_teammembers",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_multievents",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_print_empty",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_print_partpoints",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_print_partresults",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_print_partrank",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_print_gridlines",
+                  "Value": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFreetext, taf",
+            "X": 10.0,
+            "Y": 0.0,
+            "Width": 20.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "Klasse",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFreetext, taf",
+            "X": 30.0,
+            "Y": 0.0,
+            "Width": 20.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "Disziplin",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFreetext, taf",
+            "X": 65.0,
+            "Y": 0.0,
+            "Width": 30.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "Meldeleistung",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 2
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintFreetext, taf",
+            "X": 10.0,
+            "Y": 23.0,
+            "Width": 40.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "Staffelteilnehmer",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintDBtext, taf",
+            "X": 40.0,
+            "Y": 0.0,
+            "Width": 40.0,
+            "Height": 4.0,
+            "Level": 0,
+            "Content": "[EventName]",
+            "Font": {
+              "$type": "ColorFont.FontInfo, taf",
+              "Family": "Arial",
+              "Size": 6.0,
+              "Style": "Normal",
+              "Stretch": 5,
+              "Weight": 400,
+              "BrushColor": "#FF000000"
+            },
+            "Align": 0,
+            "Parameters": {
+              "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib",
+              "$values": [
+                {
+                  "Key": "tb_teammembers",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_multievents",
+                  "Value": ""
+                },
+                {
+                  "Key": "tb_single_member",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_Nameformat",
+                  "Value": 0
+                },
+                {
+                  "Key": "tb_single_performance",
+                  "Value": ""
+                },
+                {
+                  "Key": "cb_printOrder",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printBib",
+                  "Value": false
+                },
+                {
+                  "Key": "cb_printEmptyMembers",
+                  "Value": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "taf.Printing.Pdos.PrintBarcode, taf",
+            "X": 37.0,
+            "Y": 52.0,
+            "Width": 50.0,
+            "Height": 10.0,
+            "Level": 0,
+            "FontSize": 20,
+            "Rotate": false
+          }
+        ]
+      }
+    }
+  ]
+}
